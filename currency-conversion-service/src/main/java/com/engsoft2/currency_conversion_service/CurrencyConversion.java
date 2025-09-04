@@ -1,3 +1,5 @@
+package main.java.com.engsoft2.currency_conversion_service;
+
 import java.math.BigDecimal;
 public class CurrencyConversion {
 private Long id;
